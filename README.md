@@ -38,4 +38,4 @@ I'm a Blockchain Developer & Business Analyst. Currently, I'm focusing on develo
 
 ## 🐍 Check out my contribution graph
 
-![Snake animation](https://github.com/truthdeal/truthdeal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/truthdeal/truthdeal/blob/output/github-contribution-grid-snake-dark.svg)
