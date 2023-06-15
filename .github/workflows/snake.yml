@@ -1,0 +1,16 @@
+name: Generate D3 Snake from your contribution graph
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        with:
+          github_user_name: Your_GitHub_Username
+          svg_out_path: dist/github-contribution-grid-snake.svg
