@@ -15,6 +15,8 @@ I'm a **Blockchain Developer & Business Analyst**. Currently, I'm focusing on de
 - Twitter: [@showbucks](https://twitter.com/showbucks)
 - LinkedIn: [@bcantepe](https://www.linkedin.com/in/bcantepe)
 - Email: [barisaryacantepe@gmail.com](mailto:barisaryacantepe@gmail.com)
+  
+- For more about me, visit my website: [www.barisaryacantepe.com](http://www.barisaryacantepe.com)
 
 ## 💼 Skills
 
@@ -42,5 +44,3 @@ I'm a **Blockchain Developer & Business Analyst**. Currently, I'm focusing on de
 ## 🐍 Check out my contribution graph
 
 ![Snake animation](https://github.com/truthdeal/truthdeal/blob/output/github-contribution-grid-snake-dark.svg)
-
-For more about me, visit my website: [www.barisaryacantepe.com](http://www.barisaryacantepe.com)
