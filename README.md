@@ -15,3 +15,6 @@ I'm a Blockchain Developer & Business Analyst. Currently, I'm focusing on develo
 - Twitter: [@showbucks](https://twitter.com/showbucks)
 - LinkedIn: [@bcantepe](https://www.linkedin.com/in/bcantepe)
 - Email: [barisaryacantepe@gmail.com](mailto:barisaryacantepe@gmail.com)
+
+
+![Snake animation](https://github.com/truthdeal/truthdeal/blob/output/github-contribution-grid-snake.svg)
