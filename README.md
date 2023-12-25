@@ -8,7 +8,7 @@ With two years of hands-on experience in **blockchain development**, I have hone
 
 ## 🌱 Current work
 
-I'm a **Blockchain Developer & Business Analyst**. Currently, I'm focusing on developing complex smart contracts for various applications such as **Token, Claim, Staking, and NFTs**, employing **Ethers.js, Web3.js, Hardhat, Truffle** and other tools to ensure efficiency and robustness of the products.
+I'm a **Blockchain Developer**. Currently, I'm focusing on developing complex smart contracts for various applications such as **Token, Claim, Staking, and NFTs**, employing **Ethers.js, Web3.js, Hardhat, Truffle** and other tools to ensure efficiency and robustness of the products.
 
 ## 📫 How to reach me
 
